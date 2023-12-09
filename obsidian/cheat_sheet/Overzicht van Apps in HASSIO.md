@@ -1,0 +1,7 @@
+- Kan dit [Configuration.yaml](Hassio.md#Configuration.yaml)
+	- watchman
+	- HACS
+	- Standaard instellingen .. tijd,locatie
+	- gebruikers, beveiliging, ssh
+	- 
+- 
