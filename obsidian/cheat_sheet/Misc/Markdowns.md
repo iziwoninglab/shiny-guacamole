@@ -3,6 +3,7 @@ Begin met de cheats
 
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
+Help document: [Markdown help](https://help.obsidian.md/Linking+notes+and+files/Internal+links)
 Documentation: [Markdown Docs](https://daringfireball.net/projects/markdown/)
 RFC: [RFC 7763](https://www.rfc-editor.org/rfc/rfc7763)
 GitHub Documentation: [Writing Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github)
@@ -10,6 +11,13 @@ GitHub Documentation: [Writing Markdown on GitHub](https://docs.github.com/en/ge
 ---
 ## Cheat-Sheet
 
+### How to
+
+Link to header(#) or location: [Online](https://help.obsidian.md/Linking+notes+and+files/Internal+links#Supported+formats+for+internal+links) 
+```markdown
+- Wikilink: `[[Three laws of motion]]`
+- Markdown: `[Three laws of motion](Three%20laws%20of%20motion.md)`
+```
 ### Headings
 ```markdown
 # Heading 1
@@ -119,6 +127,8 @@ To check the task replace the space between the bracket with "x".
 ## Reference
 
 Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
+
+
 
 
 

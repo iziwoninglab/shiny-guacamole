@@ -141,8 +141,6 @@ echo "stunning-octo-happiness" >> README.md
 
 ### Working with git-flow
 
-^1c6c35
-
 Git-flow assists you by combining multiple steps of `git` commands to one `git-flow` command
 which will do a workflow of steps. Although `git-flow` makes live easier in some cases,
 it makes it also more complex sometimes and you need to execute some steps before or after using
